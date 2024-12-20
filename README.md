@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skkothimbire
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning FYCS
+- 🌱 I’m currently learning TYCS
 - 💞️ I’m looking to collaborate on building softwares
 - 📫 How to reach me Linkedln
 
